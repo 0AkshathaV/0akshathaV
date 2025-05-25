@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshatha V</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer</h3>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0AkshathaV&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,11 +10,11 @@
 
 ## 📖 About Me
 
-- 🔭 I’m currently working on **Image Classification Projects using CNN**
+- 🔭 I’m currently working on **Image Classification Projects using Python**
 - 🌱 I’m learning more about **Computer Vision and Deep Learning**
-- 👯 I’m looking to collaborate on **AI/ML Projects and Hackathons**
+- 👯 I’m looking to collaborate on **AI/ML Projects **
 - 💬 Ask me about **Python, Machine Learning, and Git**
-- 📫 How to reach me: **akshatha.v@s.amity.edu** *(replace with your email)*
+- 📫 How to reach me: **akshatha.v@s.amity.edu**
 - ⚡ Fun fact: I love solving real-world problems using data and models!
 
 ---
@@ -49,8 +49,8 @@ A deep learning project to classify images using Convolutional Neural Networks (
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) *(replace this!)*
-- 📁 [Portfolio](https://your-portfolio-link.com) *(optional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 📁 [Portfolio](https://your-portfolio-link.com) 
 - 📬 Email: **akshatha.v@s.amity.edu**
 
 ---
