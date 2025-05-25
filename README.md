@@ -31,7 +31,7 @@
 
 ### 🔹 [Team10 Image Classifier](https://github.com/0AkshathaV/Team10_image_classifier)
 
-A deep learning project to classify images using Convolutional Neural Networks (CNNs). The model is trained and tested on image datasets and allows real-time image prediction through a command-line script.
+A deep learning project to classify images using Python(.py). The model is trained and tested on image datasets and allows real-time image prediction through a command-line script.
 
 > Tools Used: Python, TensorFlow, Keras, OpenCV  
 > Scripts Included: Data processing, model training, prediction script  
